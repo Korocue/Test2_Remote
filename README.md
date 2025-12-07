@@ -1,2 +1,8 @@
 # Test2_Remote
-テスト用
+
+Codex練習用ミニレポジトリ。
+
+## Goal
+- small tasks
+- README improvement
+- tiny feature additions
