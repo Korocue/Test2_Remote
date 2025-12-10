@@ -1,0 +1,4 @@
+# .NET ビルド成果物
+**/bin/
+**/obj/
+**/TestResults/
